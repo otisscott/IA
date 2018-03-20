@@ -1,0 +1,19 @@
+{
+  "name": "roast-my-teacher-backend",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng"
+  },
+  "private": true,
+  "dependencies": {
+    "bad-words": "^1.6.1",
+    "body-parser": "^1.18.2",
+    "core-js": "^2.4.1",
+    "express": "^4.16.2",
+    "fast-csv": "^2.4.1",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.12.5",
+    "zone.js": "^0.8.14"
+  }
+}
